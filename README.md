@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
