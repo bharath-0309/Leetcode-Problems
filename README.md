@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -58,4 +60,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
