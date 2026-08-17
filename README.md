@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
@@ -111,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
@@ -120,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
