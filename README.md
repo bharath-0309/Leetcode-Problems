@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -122,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -133,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -145,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
