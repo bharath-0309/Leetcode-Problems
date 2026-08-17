@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
