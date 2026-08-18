@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
