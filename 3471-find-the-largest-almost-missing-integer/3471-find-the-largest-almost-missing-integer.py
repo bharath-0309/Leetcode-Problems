@@ -1,9 +1,8 @@
 class Solution:
     def largestInteger(self, nums, k):
-        n = len(nums)
         count = {}
 
-        for i in range(n - k + 1):
+        for i in range(len(nums) - k + 1):
             seen = set(nums[i:i + k])
 
             for x in seen:
