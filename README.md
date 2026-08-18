@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0088-merge-sorted-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -166,4 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
