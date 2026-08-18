@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
