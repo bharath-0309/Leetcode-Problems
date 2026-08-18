@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
@@ -181,4 +183,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 <!---LeetCode Topics End-->
