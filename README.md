@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0115-distinct-subsequences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
