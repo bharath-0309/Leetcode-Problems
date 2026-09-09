@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
 | [3870-count-commas-in-range](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
