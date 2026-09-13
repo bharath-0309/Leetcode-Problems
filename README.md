@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0088-merge-sorted-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0835-image-overlap](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
