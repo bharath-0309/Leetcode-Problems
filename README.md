@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0836-rectangle-overlap](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -241,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
