@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
