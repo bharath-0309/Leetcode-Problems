@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3360-stone-removal-game](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3360-stone-removal-game/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
