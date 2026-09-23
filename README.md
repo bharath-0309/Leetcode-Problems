@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [1690-stone-game-vii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1690-stone-game-vii/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -202,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
