@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0115-distinct-subsequences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
@@ -256,4 +257,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
