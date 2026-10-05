@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +291,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
