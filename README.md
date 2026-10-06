@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1686-stone-game-vi](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1686-stone-game-vi/) | Medium |
 | [2029-stone-game-ix](https://github.com/bharath-0309/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/bharath-0309/Leetcode-Problems/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Backtracking
