@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/bharath-0309/Leetcode-Problems/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bharath-0309/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
